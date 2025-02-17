@@ -5,7 +5,6 @@
   - `email` - aloks2004ag@gmail.com
   - `instagram` - [`alokvisuals`](https://www.instagram.com/alokvisuals/)
   - [`linkedin`](https://www.linkedin.com/in/aloks1490/)
-- ⚡ Fun fact: I'm caffeine-proof , it doesnt affect me at all . I can sleep right after drinking a can of redbull.
 
 <!---
 Alok1490/Alok1490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
