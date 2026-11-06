@@ -12,8 +12,8 @@ open to **remote GTM Engineer roles** at seed-to-Series B startups.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**GTM Signal Engine**](https://github.com/Alok1490/REPO_NAME) | Warehouse-native account scoring that combines multiple buying signals and suppresses noisy or already-contacted accounts before they reach sales | Databricks · dbt · HubSpot · GitHub Actions · Slack |
-| [**NYC Taxi Lakehouse**](https://github.com/Alok1490/REPO_NAME) | Medallion (bronze/silver/gold) ETL on 2026 NYC TLC data, including fixes for real-world schema drift | Databricks · PySpark · Delta Lake · Unity Catalog |
+| [**GTM Signal Engine**](https://github.com/aloks1490/Multi-Signal-Attribution-and-Signal-Fatigue-Filtration) | Warehouse-native account scoring that combines multiple buying signals and suppresses noisy or already-contacted accounts before they reach sales | Databricks · dbt · HubSpot · GitHub Actions · Slack |
+| [**NYC Taxi Lakehouse**](https://github.com/aloks1490/taxi-medallion-pipeline) | Medallion (bronze/silver/gold) ETL on 2026 NYC TLC data, including fixes for real-world schema drift | Databricks · PySpark · Delta Lake · Unity Catalog |
 
 ### 📄 Publication
 
